@@ -5,7 +5,7 @@ console.log(5);
 console.log('Gala');
 
 // 3. Store your age as a variable called "myAge"
-var myAge = 30;
+var myAge = 20;
 
 // 4. Print to the console how old you will be in 5 years
 myAge += 5;
